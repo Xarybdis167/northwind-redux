@@ -1,0 +1,1 @@
+cmd /c code . & cd../api & json-server --watch --host 192.168.1.143 --port 3001  db.json 
